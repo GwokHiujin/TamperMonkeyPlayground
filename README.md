@@ -4,7 +4,7 @@
 
 ## WeiboLotteryTool
 
-🔗Greasy Fork: https://greasyfork.org/zh-CN/scripts/487315-weibo-lottery-tools
+🔗Greasy Fork: [https://greasyfork.org/zh-CN/scripts/487315-weibo-lottery-tools](https://greasyfork.org/zh-CN/scripts/487319-weibo-lottery-tools)
 
 跟微博会员爆了的产物😅
 
