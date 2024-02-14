@@ -4,6 +4,8 @@
 
 ## WeiboLotteryTool
 
+🔗Greasy Fork: https://greasyfork.org/zh-CN/scripts/487315-weibo-lottery-tools
+
 跟微博会员爆了的产物😅
 
 目前支持单独的转发区抽奖和评论区抽奖，在千转 / 千评微博下简单测试了一下可行性。后续会看情况考虑是否添加转评组合抽奖功能，以及探索是否有更高效的用户名单获取方式。
